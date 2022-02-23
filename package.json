@@ -39,7 +39,7 @@
     "sqlite": "^4.0.23",
     "sqlite3": "^5.0.2",
     "swagger-ui-express": "^4.3.0",
-    "typeorm": "^0.2.43"
+    "typeorm": "^0.2.44"
   },
   "devDependencies": {
     "@nestjs/cli": "^8.0.0",
