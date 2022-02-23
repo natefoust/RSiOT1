@@ -1,5 +1,5 @@
 {
-  "host": "LAB2.endpoints.lab2-341310.cloud.goog",
+  "host": "lab2.endpoints.lab2-341310.cloud.goog",
   "paths": {
     "/patients/{id}": {
       "get": {
