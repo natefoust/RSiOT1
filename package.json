@@ -41,7 +41,7 @@
     "sqlite": "^4.0.23",
     "sqlite3": "^5.0.2",
     "swagger-ui-express": "^4.3.0",
-    "typeorm": "^0.2.44",
+    "typeorm": "^0.2.45",
     "uuidv4": "^6.2.12"
   },
   "devDependencies": {
